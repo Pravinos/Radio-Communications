@@ -1,0 +1,6 @@
+"Name   [v. 1.1]",Latitude,Longitude,"Tower height (m agl)","Maximum range (km)","Ground elevation (m amsl)",Notes,"Viewshed color (RGBA)","Sectors (center/beamwidth)","Custom overlay"
+Olympos,39.072444,26.353419,1000,50,0,,f1b0b020,,
+Mytilini,39.074849,26.551228,480,50,0,,f1b0b020,,
+Limnos,39.878514,25.320796,170,50,148,,f1b0b020,,
+Molyvos,39.335107,26.24669,930,50,924,,f1b0b020,,
+Myrina,39.904174,25.077731,320,50,324,,f1b0b020,,
